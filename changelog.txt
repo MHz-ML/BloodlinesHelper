@@ -1,0 +1,13 @@
+Bloodlines Helper Alpha 0.1.0
+
+Added:
+- Dashboard
+- Clan Library
+- Clan Detail Pages
+- Sidebar
+- Settings Page
+
+Changed:
+- New scrolling system
+- Wrapped text
+- Cleaner navigation
