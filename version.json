@@ -1,5 +1,5 @@
 {  
   "version": "0.2.0-alpha",  
-  "download": "https://github.com/MHz-ML/BloodlinesHelper/blob/main/BloodlinesHelperSetup.exe",  
+  "download": "https://github.com/MHz-ML/BloodlinesHelper/raw/main/BloodlinesHelperSetup.exe",  
   "notes": "Bulk account importing, profile customization, Ayuri progression content, smoother scrolling, and dashboard/UI cleanup."  
 }  
