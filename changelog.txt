@@ -1,65 +1,31 @@
-Bloodlines Helper Alpha 0.2.0 Added:
+Version 0.2.2-Bloodlines
 
-Bulk account importing with queued authentication
+Added
+- Added full Bloodline guide support for multiple clans.
+- Added Akimichi progression guide.
+- Added Ayuri progression guide.
+- Added Haruno progression guide.
+- Added Zetsu progression guide.
+- Added Hoshigaki progression guide.
+- Added Aburame progression guide.
+- Added Uzumaki progression guide.
+- Added Chinoike progression guide.
+- Added dynamic Bloodline detail pages with separate sections for:
+  - Passive effects
+  - Progression path
+  - Awakening
+  - Tips & Notes
 
-Account profile customization
+Improved
+- Bloodline pages now update automatically when selecting a clan.
+- Replaced placeholder clan cards with selectable guide text.
+- Improved readability of Bloodline progression steps.
+- Bloodline guide text is now selectable for copying.
 
-Village, Bloodline, Weapon, Element, and Rank profile fields
+Changed
+- Renamed clan guide layout wording to better match Bloodlines.
+- Updated Bloodline page structure to keep guides short, simple, and easier to follow.
 
-Edit Profile popup for saved accounts
-
-Account selector display settings
-
-Optional profile info display in the account selector
-
-Online, Offline, In Game, and Studio status indicators
-
-Launch warning when an account is already in an experience
-
-Ayuri progression content
-
-Smooth scrolling support across the app
-
-Improved account selector scrolling
-
-Cleaner Bloodlines guide layout
-
-Cleaner Dashboard layout
-
-Changed:
-
-Renamed Clans section to Bloodlines
-
-Simplified Dashboard cards
-
-Removed unnecessary subtitles from Bloodlines pages
-
-Removed clutter from bloodline guide headers
-
-Improved account selector colors and selected-account styling
-
-Account selector now prioritizes Roblox usernames
-
-Bloodline detail pages now use a consistent card layout
-
-Update notes are now displayed in a cleaner, smaller style
-
-Fixed:
-
-Rough and jumpy scrolling in several app areas
-
-Account selector readability when selecting profiles
-
-Bloodline pages feeling cluttered with placeholder text
-
-Bulk importing now avoids authenticating every account at once
-
-Known Issues:
-
-Some bloodline data is still incomplete
-
-More progression guides need to be added
-
-Profile display badges are text-based for now
-
-Some profile customization options may need more game-specific details later
+Fixed
+- Fixed placeholder Bloodline detail cards not updating correctly.
+- Fixed duplicate editable info card setup issues during Bloodline implementation.
