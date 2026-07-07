@@ -1,13 +1,65 @@
-Bloodlines Helper Alpha 0.1.0
+Bloodlines Helper Alpha 0.2.0 Added:
 
-Added:
-- Dashboard
-- Clan Library
-- Clan Detail Pages
-- Sidebar
-- Settings Page
+Bulk account importing with queued authentication
+
+Account profile customization
+
+Village, Bloodline, Weapon, Element, and Rank profile fields
+
+Edit Profile popup for saved accounts
+
+Account selector display settings
+
+Optional profile info display in the account selector
+
+Online, Offline, In Game, and Studio status indicators
+
+Launch warning when an account is already in an experience
+
+Ayuri progression content
+
+Smooth scrolling support across the app
+
+Improved account selector scrolling
+
+Cleaner Bloodlines guide layout
+
+Cleaner Dashboard layout
 
 Changed:
-- New scrolling system
-- Wrapped text
-- Cleaner navigation
+
+Renamed Clans section to Bloodlines
+
+Simplified Dashboard cards
+
+Removed unnecessary subtitles from Bloodlines pages
+
+Removed clutter from bloodline guide headers
+
+Improved account selector colors and selected-account styling
+
+Account selector now prioritizes Roblox usernames
+
+Bloodline detail pages now use a consistent card layout
+
+Update notes are now displayed in a cleaner, smaller style
+
+Fixed:
+
+Rough and jumpy scrolling in several app areas
+
+Account selector readability when selecting profiles
+
+Bloodline pages feeling cluttered with placeholder text
+
+Bulk importing now avoids authenticating every account at once
+
+Known Issues:
+
+Some bloodline data is still incomplete
+
+More progression guides need to be added
+
+Profile display badges are text-based for now
+
+Some profile customization options may need more game-specific details later
