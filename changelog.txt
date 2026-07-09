@@ -1,31 +1,27 @@
-Version 0.2.2-Bloodlines
+Bloodlines Helper v0.3.0
 
-Added
-- Added full Bloodline guide support for multiple clans.
-- Added Akimichi progression guide.
-- Added Ayuri progression guide.
-- Added Haruno progression guide.
-- Added Zetsu progression guide.
-- Added Hoshigaki progression guide.
-- Added Aburame progression guide.
-- Added Uzumaki progression guide.
-- Added Chinoike progression guide.
-- Added dynamic Bloodline detail pages with separate sections for:
-  - Passive effects
-  - Progression path
-  - Awakening
-  - Tips & Notes
+New Features
+- Added element support for account profiles.
+- Added account selector display options for elements.
 
-Improved
-- Bloodline pages now update automatically when selecting a clan.
-- Replaced placeholder clan cards with selectable guide text.
-- Improved readability of Bloodline progression steps.
-- Bloodline guide text is now selectable for copying.
+Backwards Macro Updates
+- Simplified the Backwards macro settings.
+- Removed the macro method selector.
+- Added S-release behavior while W is held:
+- Holding W + S starts the macro.
 
-Changed
-- Renamed clan guide layout wording to better match Bloodlines.
-- Updated Bloodline page structure to keep guides short, simple, and easier to follow.
+Account Manager
+- Added more element tracking to account profiles.
+- Added support for showing elements in the account selector.
+- Fixed a UI issue where unused "Last used" and "Default PlaceId" labels could appear stuck in the top-left of the Account Manager.
 
-Fixed
-- Fixed placeholder Bloodline detail cards not updating correctly.
-- Fixed duplicate editable info card setup issues during Bloodline implementation.
+Settings
+- Added a separate Q Macro toggle under Backwards.
+- Cleaned up macro settings by removing unused macro method options.
+- Backwards and Q Macro states are now saved and restored through settings.
+
+Cleanup
+- Removed old macro test modes.
+- Removed unused Account Manager labels.
+- Improved macro key release behavior to prevent stuck keys.
+- Multiple bug fixes and cleanups
