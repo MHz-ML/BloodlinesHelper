@@ -1,5 +1,5 @@
 {  
-  "version": "Version 0.2.2-BloodlineInfo",  
-  "download": "https://raw.githubusercontent.com/MHz-ML/BloodlinesHelper/main/BloodlinesHelperSetup.exe",  
-  "notes": "Clan progression info"  
+  "version": "0.3.0",  
+  "download": "https://github.com/MHz-ML/BloodlinesHelper/releases/download/v0.3.0/BloodlinesHelper.exe",  
+  "notes": "Added element support, improved account profile display options, simplified the Backwards macro, and cleaned up Account Manager UI issues."  
 }  
