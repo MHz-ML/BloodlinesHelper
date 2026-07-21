@@ -1,5 +1,5 @@
 {  
-  "version": "0.3.0",  
+  "version": "0.4.0",  
   "download": "https://github.com/MHz-ML/BloodlinesHelper/releases/download/v0.3.0/BloodlinesHelperSetup.exe",  
   "notes": "Added element support, improved account profile display options, simplified the Backwards macro, and cleaned up Account Manager UI issues."  
 }  
