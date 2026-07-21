@@ -1,27 +1,34 @@
-Bloodlines Helper - Update 0.4.0
+Bloodlines Helper - Update 0.5.0
 
 New Features:
-- Added a new Game Info tab.
-- Added an Armors section inside Game Info.
-- Added armor detail popups with Normal / Ascended stat switching.
-- Added an armor comparison tool for comparing two armors side-by-side.
-- Added cleaner armor stat formatting for easier reading.
+- Added an Implanting sub-tab with implant requirement cards.
+- Added implant information for:
+  - Rinnegan
+  - Mangekyo Sharingan
+  - Byakugan
+  - Ketsuryugan
+  - Torn Arms
+- Added minimum age requirement info to implant cards.
+- Added a Traits sub-tab with clean trait cards and readable descriptions.
+- Added a Flaws sub-tab with clean flaw cards and readable descriptions.
 
-Changes:
-- Removed the old Macros tab completely.
-- Removed macro hotkey toggling/background macro behavior.
-- Kept the Backwards feature available in Settings.
-- Cleaned up the sidebar by removing the bottom status card.
-- Improved the Game Info layout with a simpler sub-tab style.
-- Moved the Compare Armors button into the Armors section.
-- Removed unsupported/excluded armor entries from the public release armor list.
+Improvements:
+- Reworked trait and flaw details to be easier to understand.
+- Improved the Game Info layout with cleaner sub-tabs.
+- Improved armor cards with a cleaner 3-column card layout.
+- Moved armor comparison into the Armors sub-tab.
+- Removed the bottom-left status card for a cleaner sidebar.
+- Cleaned up the overall release UI.
+
+Removed:
+- Removed the Macros tab.
+- Removed macro hotkey/background macro behavior.
 
 Clan Info:
-- Clan/Bloodline guide work is still ongoing.
+- Clan/Bloodline guide data is still actively being expanded.
 - Existing clan info remains available.
-- More clan passives, progression steps, awakenings, and tips will be added over time.
-- The Clan Info tab is still actively being expanded as more reliable data is collected.
+- More clan passives, progression steps, awakenings, and tips will be added in future updates.
 
 Notes:
-- This update focuses on cleaning up the app for release, removing unused macro systems, and starting the new Game Info database.
-- Armor data may continue to be adjusted as balance changes or more information becomes available.
+- Backwards remains available in Settings.
+- Armor, implant, trait, and flaw information may continue to be adjusted as more game data is verified.
