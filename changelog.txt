@@ -1,27 +1,27 @@
-Bloodlines Helper v0.3.0
+Bloodlines Helper - Update 0.4.0
 
-New Features
-- Added element support for account profiles.
-- Added account selector display options for elements.
+New Features:
+- Added a new Game Info tab.
+- Added an Armors section inside Game Info.
+- Added armor detail popups with Normal / Ascended stat switching.
+- Added an armor comparison tool for comparing two armors side-by-side.
+- Added cleaner armor stat formatting for easier reading.
 
-Backwards Macro Updates
-- Simplified the Backwards macro settings.
-- Removed the macro method selector.
-- Added S-release behavior while W is held:
-- Holding W + S starts the macro.
+Changes:
+- Removed the old Macros tab completely.
+- Removed macro hotkey toggling/background macro behavior.
+- Kept the Backwards feature available in Settings.
+- Cleaned up the sidebar by removing the bottom status card.
+- Improved the Game Info layout with a simpler sub-tab style.
+- Moved the Compare Armors button into the Armors section.
+- Removed unsupported/excluded armor entries from the public release armor list.
 
-Account Manager
-- Added more element tracking to account profiles.
-- Added support for showing elements in the account selector.
-- Fixed a UI issue where unused "Last used" and "Default PlaceId" labels could appear stuck in the top-left of the Account Manager.
+Clan Info:
+- Clan/Bloodline guide work is still ongoing.
+- Existing clan info remains available.
+- More clan passives, progression steps, awakenings, and tips will be added over time.
+- The Clan Info tab is still actively being expanded as more reliable data is collected.
 
-Settings
-- Added a separate Q Macro toggle under Backwards.
-- Cleaned up macro settings by removing unused macro method options.
-- Backwards and Q Macro states are now saved and restored through settings.
-
-Cleanup
-- Removed old macro test modes.
-- Removed unused Account Manager labels.
-- Improved macro key release behavior to prevent stuck keys.
-- Multiple bug fixes and cleanups
+Notes:
+- This update focuses on cleaning up the app for release, removing unused macro systems, and starting the new Game Info database.
+- Armor data may continue to be adjusted as balance changes or more information becomes available.
