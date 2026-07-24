@@ -1,34 +1,13 @@
-Bloodlines Helper - Update 0.5.0
+Update 0.5.1
 
-New Features:
-- Added an Implanting sub-tab with implant requirement cards.
-- Added implant information for:
-  - Rinnegan
-  - Mangekyo Sharingan
-  - Byakugan
-  - Ketsuryugan
-  - Torn Arms
-- Added minimum age requirement info to implant cards.
-- Added a Traits sub-tab with clean trait cards and readable descriptions.
-- Added a Flaws sub-tab with clean flaw cards and readable descriptions.
+Added:
+• Added Torn Arms information under Game Info.
+• Added Jutsu Mastery under Game Info.
+• Added Jutsu Mastery sub-tabs for Fire, Earth, Water, Lightning, Wind, Sealing, Healing, Clone, Improved Stomach, Genjutsu, Wood, and Ice.
 
-Improvements:
-- Reworked trait and flaw details to be easier to understand.
-- Improved the Game Info layout with cleaner sub-tabs.
-- Improved armor cards with a cleaner 3-column card layout.
-- Moved armor comparison into the Armors sub-tab.
-- Removed the bottom-left status card for a cleaner sidebar.
-- Cleaned up the overall release UI.
+Changed:
+• Improved Game Info navigation with new category tabs.
+• Added detailed buff, debuff, and mastery descriptions.
 
-Removed:
-- Removed the Macros tab.
-- Removed macro hotkey/background macro behavior.
-
-Clan Info:
-- Clan/Bloodline guide data is still actively being expanded.
-- Existing clan info remains available.
-- More clan passives, progression steps, awakenings, and tips will be added in future updates.
-
-Notes:
-- Backwards remains available in Settings.
-- Armor, implant, trait, and flaw information may continue to be adjusted as more game data is verified.
+Fixed:
+• Fixed a couple incorrect stats.
