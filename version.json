@@ -1,5 +1,5 @@
 {  
-  "version": "0.5.0",  
-  "download": "https://github.com/MHz-ML/BloodlinesHelper/releases/download/v0.5.0/BloodlinesHelperSetup.exe",  
-  "notes": "Added more game info"  
+  "version": "0.5.1",  
+  "download": "https://github.com/MHz-ML/BloodlinesHelper/releases/download/v0.5.1/BloodlinesHelperSetup.exe",  
+  "notes": "Added Jutsu mastery effects, Torn arm buffs and debuffs and fixed some inccorect stats"  
 }  
