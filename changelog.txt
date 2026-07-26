@@ -1,13 +1,16 @@
-Update 0.5.1
+Update 0.6.0
 
-Added:
-• Added Torn Arms information under Game Info.
-• Added Jutsu Mastery under Game Info.
-• Added Jutsu Mastery sub-tabs for Fire, Earth, Water, Lightning, Wind, Sealing, Healing, Clone, Improved Stomach, Genjutsu, Wood, and Ice.
+Added a new Credits section inside Settings.
+Credits now include:
+Olvaar — progression guides and requirement outlines
+The previous Trello — game info and data
+New:
+- Added Senju Bloodline progression guide.
+- Added Lee Bloodline progression guide.
+- Added new Ailments sub-tab under Game Info.
+- Added ailment cards and details
 
-Changed:
-• Improved Game Info navigation with new category tabs.
-• Added detailed buff, debuff, and mastery descriptions.
-
-Fixed:
-• Fixed a couple incorrect stats.
+Changed
+- Improved Game Info sub-tab styling to use the same active-tab behavior as the Jutsu Mastery tabs.
+- Reformatted new Bloodline progression entries to match the existing readable guide format.
+- Improved wording and structure for progression steps, quest requirements, rewards, and tips.
