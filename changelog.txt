@@ -1,16 +1,31 @@
-Update 0.6.0
+Changelog
 
 Added a new Credits section inside Settings.
 Credits now include:
-Olvaar — progression guides and requirement outlines
-The previous Trello — game info and data
-New:
-- Added Senju Bloodline progression guide.
-- Added Lee Bloodline progression guide.
-- Added new Ailments sub-tab under Game Info.
-- Added ailment cards and details
+
+-Olvaar — progression guides and requirement outlines
+-The previous Trello — game info and data
+
+Added Senju Bloodline progression
+
+Added Lee Bloodline progression
+
+Added new Ailments sub-tab under Game Info
 
 Changed
-- Improved Game Info sub-tab styling to use the same active-tab behavior as the Jutsu Mastery tabs.
-- Reformatted new Bloodline progression entries to match the existing readable guide format.
-- Improved wording and structure for progression steps, quest requirements, rewards, and tips.
+
+Switched release packaging to a portable ZIP
+
+Improved Game Info sub-tab styling to use the same active-tab behavior as the Jutsu Mastery tabs.
+
+Reformatted new Bloodline progression entries to match the existing readable guide format.
+
+Improved wording and structure for progression steps, quest requirements, rewards, and tips.
+
+Updated the app to better preserve and apply saved settings after reopening.
+
+Fixed
+
+Fixed settings not properly applying after closing and reopening the app.
+
+Added migration support for accounts that were encrypted in a previous build.
