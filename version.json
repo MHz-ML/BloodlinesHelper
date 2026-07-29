@@ -1,5 +1,5 @@
 {  
   "version": "0.6.0",  
-  "download": "https://github.com/MHz-ML/BloodlinesHelper/releases/download/v0.6.0/BloodlinesHelperSetup.exe",  
-  "notes": "Added ailments and their effects aswell as Senju and Lee progression update the installer I SUGGEST UNINSTALLING THE APP AND REINSTALLING IF YOU CANT SEE VERSION 0.6.0"  
+  "download": "https://github.com/MHz-ML/BloodlinesHelper/releases/download/v0.6.0/BloodlinesHelper.zip",  
+  "notes": "Version 0.6.0 fix we no longer use an installer and now use a .zip file added Senju and Lee progression aswell as ailments"  
 }  
