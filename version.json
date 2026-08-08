@@ -1,5 +1,5 @@
 {  
-  "version": "0.6.0",  
-  "download": "https://github.com/MHz-ML/BloodlinesHelper/releases/download/v0.6.0/BloodlinesHelper.zip",  
-  "notes": "Version 0.6.0 fix we no longer use an installer and now use a .zip file added Senju and Lee progression aswell as ailments"  
+  "version": "0.7.0",  
+  "download": "https://github.com/MHz-ML/BloodlinesHelper/releases/download/v0.7.0/BloodlinesHelper.zip",  
+  "notes": "Version 0.7.0 Added Progression overlays and many more things related to progression more coming soon and fixed some incorrect data also added an update notifier!"  
 }  
