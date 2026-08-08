@@ -1,31 +1,50 @@
-Changelog
+New Progression Content
+Scroll Guides Added / Updated
 
-Added a new Credits section inside Settings.
-Credits now include:
+- Added full Flame Scroll guide.
+- Added full Wind Scroll guide.
+- Added full Ice Scroll guide.
 
--Olvaar — progression guides and requirement outlines
--The previous Trello — game info and data
+Progression Item Guides Added
+Added a new set of progression item cards with images and descriptions:
+- Chakra Heart
+- Evergreen Heart
+- Ice Heart
+- Lava Snakeskin
+- Samurai Soul
+- Chakra Fruit
 
-Added Senju Bloodline progression
+Visual Improvements
+Added new images for Scrolls and Progression Items.
+Removed the leftover circular background behind cards that have real item images.
+Cards with no image still use the fallback circular icon style.
 
-Added Lee Bloodline progression
+Armor Updates
+Avenger’s Outfit
+- Added missing 20% Lightning Damage Reduction information.
 
-Added new Ailments sub-tab under Game Info
+Overlay Tracker Preview
+Added initial work for a standalone Overlay Tracker option for users who do not use the Account Manager.
+- This feature is currently experimental and will be improved in a future update.
 
-Changed
+Resource Updates
+Added new bundled images:
+Scroll Images
+Lavarossa
+Lavaroldy
+Lavaroldy’s cave
+Wind Scroll
+Wind path
+Wind Scroll NPC
+Ice Scroll NPC
+Progression Item Images
+Chakra Fruit
+Chakra Heart
+Evergreen Heart
+Ice Heart
+Lava Snakeskin
+Samurai Soul
 
-Switched release packaging to a portable ZIP
-
-Improved Game Info sub-tab styling to use the same active-tab behavior as the Jutsu Mastery tabs.
-
-Reformatted new Bloodline progression entries to match the existing readable guide format.
-
-Improved wording and structure for progression steps, quest requirements, rewards, and tips.
-
-Updated the app to better preserve and apply saved settings after reopening.
-
-Fixed
-
-Fixed settings not properly applying after closing and reopening the app.
-
-Added migration support for accounts that were encrypted in a previous build.
+Fixes / Cleanup
+Cleaned up Progression Item card data.
+Fixed several display inconsistencies in progression guide cards.
